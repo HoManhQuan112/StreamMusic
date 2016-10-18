@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="urls">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+    </string-array>
+    <string-array name="imageUrls">
+        <item>http://www.w3schools.com/css/paris.jpg</item>
+        <item>https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/leisa_christmas_false_color.png?itok=Jxf0IlS4</item>
+        <item>http://s.orzzzz.com/news/67/50//5799d54d8811c.jpg</item>
+        <item>http://s.orzzzz.com/news/ce/50//5799d76dc4967.jpg</item>
+        <item>http://s.orzzzz.com/news/f7/4f//5799d54d899ff.jpg</item>
+        <item>http://s.orzzzz.com/news/7b/07//5799d54d8a122.jpg</item>
+        <item>http://s.orzzzz.com/news/b0/a5//5799d54d8a729.jpg</item>
+
+    </string-array>
+</resources>
